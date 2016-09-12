@@ -1,0 +1,22 @@
+{
+  "name": "greenville-radon",
+  "version": "1.0.0",
+  "description": "GRS :: Greenville Radon Specialists",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "deploy": "sudo git add .; sudo git commit -m 'Update'; sudo git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohteebee/greenvilleradon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohteebee/greenvilleradon/issues"
+  },
+  "homepage": "https://github.com/ohteebee/greenvilleradon#readme"
+}
