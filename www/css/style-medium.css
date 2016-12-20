@@ -29,6 +29,15 @@
 	#header {
 		display: none;
 	}
+	@media screen and (max-width: 1200px) {
+		#altHeader {
+			display: block !important;
+		}
+	}
+
+	a.button, button {
+		padding-left: 10px; padding-right: 10px
+	}
 
 /* Banner */
 
